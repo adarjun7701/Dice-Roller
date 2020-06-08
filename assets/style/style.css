@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(189, 182, 182);
+    padding: 80px;
+    margin-left: 150px
+}
+.totalValue {
+margin: 15px;
+}
+
+.dice {
+margin: 10px;
+}
